@@ -1,0 +1,22 @@
+.aboutmepara {
+  margin: auto;
+  width: 890px;
+  padding: 10px;
+  padding-top: 37px;
+  text-align: center;
+  height: 35px;
+  border: 2px solid red;
+}
+
+.para {
+  position: relative;
+  bottom: 15px;
+}
+
+a {
+  color: black;
+}
+
+a:link {
+  text-decoration: underline;
+}

@@ -1,0 +1,32 @@
+.title {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  padding-top: 50px;
+  text-align: center;
+  height: 35px;
+}
+
+a {
+  color: black;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+.links {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  text-align: center;
+}
+
+.text {
+  text-align: center;
+}
+
+span {
+  padding-right: 1rem;
+  text-align: center;
+}
